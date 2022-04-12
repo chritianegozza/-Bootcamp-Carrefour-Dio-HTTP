@@ -24,6 +24,8 @@ Ele é desenvolvido pela JetBrains
 
 JAVA
 
+HTML
+
 ****************************************************************************************************************************************
 
 Caso tenha alguma dúvida pode entrar em contato comigo.
